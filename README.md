@@ -1,5 +1,7 @@
 # MultiSim: Modern eSIM Profile Manager for Android
 
+![MultiSim App Logo](app_logo.png)
+
 ## Project Overview
 
 MultiSim is an Android application designed to manage eSIM profiles on programmable/removable SIM cards, functioning as a Local Profile Assistant (LPA) application. The primary goal is to provide a fast, modern, and user-friendly alternative to existing LPA apps, leveraging the latest Android features (12-15) to deliver superior performance and user experience.
