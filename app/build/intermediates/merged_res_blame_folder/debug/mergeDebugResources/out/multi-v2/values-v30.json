@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.multisim.app-mergeDebugResources-58:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/ubuntu/.gradle/caches/8.10.2/transforms/f87c3f2f64b3cf8d5f621fe5be6c83be/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
